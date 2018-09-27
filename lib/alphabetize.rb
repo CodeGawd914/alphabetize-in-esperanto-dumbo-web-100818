@@ -1,5 +1,6 @@
 def alphabetize(arr)
   expo = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
   arr.sort_by(thing)
-  thing.collect |
+  thing.collect |letters|
+  
 end
