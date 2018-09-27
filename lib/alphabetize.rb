@@ -4,3 +4,5 @@ def alphabetize(arr)
   thing.collect do |letters|
   expo.index(letters)
 end
+end
+end
